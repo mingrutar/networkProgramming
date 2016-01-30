@@ -1,0 +1,43 @@
+Forward table for router AS1:R1:
+	128.92.81.0	 128.92.81.7
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R3:
+	128.92.81.0	 128.92.81.7
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R1:
+	128.92.81.0	 128.92.81.7
+	128.92.82.0	 128.92.81.7
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R1:
+	128.92.81.0	 128.92.81.7
+	128.92.82.0	 128.92.81.7
+Forward table for router AS1:R3:
+	128.92.80.0	 128.92.81.7
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+	128.92.81.0	 128.92.81.7
+Forward table for router AS1:R3:
+	128.92.80.0	 128.92.81.7
+Forward table for router AS1:R1:
+	128.92.81.0	 128.92.81.7
+	128.92.82.0	 128.92.81.7
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+Forward table for router AS1:R2:
+	128.92.80.0	 128.92.80.5
+	128.92.82.0	 128.92.82.18
+	128.92.81.0	 128.92.81.7

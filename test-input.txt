@@ -1,0 +1,76 @@
+Please submit the following in a single-file, email attachment for
+programming assignment 3:
+
+1. A README file that explains how to compile your program including the
+OS you have used to compile your program on. Also include a detailed
+description of what parts of the assignment you have implemented, what works,
+and what does not.
+
+2. All source files.
+
+3. A Makefile.
+
+4. You may reformat the input commands given below to suit your notation.
+Please submit your reformatted input file.
+
+5. An output file containing the output from your program for these inputs.
+Allow at least 5 seconds to elapse between reading each input command.
+
+Input commands:
+
+P AS0 R5
+P AS0 R0
+P AS0 R3
+P AS3 R1
+P AS4 R1
+P AS1 R2
+P AS5 R2
+S 0 128.92.35.100 128.92.38.100
+C AS0 R0 R5 2
+P AS0 R5
+P AS0 R0
+P AS0 R3
+S 1 128.92.35.100 128.92.38.100
+S 2 128.92.36.100 128.92.34.100
+S 3 128.92.32.100 128.92.33.100
+S 4 128.92.64.100 128.92.37.100
+S 5 128.92.17.100 128.92.0.100
+S 6 128.92.0.100 128.92.22.100
+F AS0 R3 AS4 R1
+P AS0 R3
+P AS4 R3
+S 7 128.92.64.100 128.92.37.100
+S 8 128.92.35.100 128.92.36.100
+D AS0 R0 R4
+S 9 128.92.35.100 128.92.36.100
+S 10 128.92.38.100 128.92.37.99
+U AS0 R3 AS4 R1
+P AS0 R3
+P AS4 R3
+S 11 128.92.64.100 128.92.37.100
+S 12 128.92.16.100 128.92.17.100
+D AS5 R1 R2
+P AS5 R1
+S 13 128.92.16.100 128.92.17.100
+C AS5 R1 R2 5
+P AS5 R1
+C AS0 R0 R4 1 
+S 14 128.92.16.100 128.92.17.100
+S 15 128.92.35.100 128.92.82.100
+S 16 128.92.38.100 128.92.82.100
+S 17 128.92.17.100 128.92.128.92.0.100
+F AS5 R2 AS4 R3
+S 18 128.92.17.100 128.92.128.92.0.100
+F AS5 R1 AS2 R2
+S 19 128.92.17.100 128.92.128.92.0.100
+F AS0 R3 AS4 R1
+S 20 128.92.17.100 128.92.128.92.0.100
+U AS5 R2 AS4 R3
+S 21 128.92.17.100 128.92.128.92.0.100
+U AS5 R1 AS2 R2
+S 21 128.92.17.100 128.92.128.92.0.100
+U AS0 R3 AS4 R1
+S 22 128.92.17.100 128.92.128.92.0.100
+
+
+

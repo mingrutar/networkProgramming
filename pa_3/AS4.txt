@@ -1,0 +1,15 @@
+Forward table for router AS4:R1:
+	128.92.65.0	 128.92.65.3
+	128.92.66.0	 128.92.66.16
+Forward table for router AS4:R2:
+	128.92.64.0	 128.92.64.7
+	128.92.66.0	 128.92.66.16
+Forward table for router AS4:R3:
+	128.92.64.0	 128.92.64.7
+	128.92.65.0	 128.92.65.3
+Forward table for router AS4:R3:
+	128.92.64.0	 128.92.64.7
+	128.92.65.0	 128.92.65.3
+Forward table for router AS4:R1:
+	128.92.65.0	 128.92.65.3
+	128.92.66.0	 128.92.66.16

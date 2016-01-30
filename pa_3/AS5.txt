@@ -1,0 +1,7 @@
+Forward table for router AS5:R1:
+	128.92.17.0	 128.92.17.30
+Forward table for router AS5:R2:
+	128.92.16.0	 128.92.16.25
+From 128.92.17.100: the message is from 128.92.16.100 through 2 routers:
+ **[hop 0, 128.92.16.25] ->[hop 1, 128.92.17.30].
+ ++ msg: MSGR5.

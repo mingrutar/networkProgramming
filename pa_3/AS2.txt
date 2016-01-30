@@ -1,0 +1,69 @@
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R2:
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R3:
+	128.92.20.0	 128.92.20.70
+	128.92.21.0	 128.92.21.3
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R1:
+	128.92.21.0	 128.92.21.3
+	128.92.22.0	 128.92.22.10
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10
+Forward table for router AS2:R2:
+	128.92.20.0	 128.92.20.70
+	128.92.22.0	 128.92.22.10

@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coor", "..\coor\coor.vcxproj", "{E5105A05-2D88-4971-9270-FC4FB84A9577}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pa_3", "pa_3.vcxproj", "{FD7D92A6-706F-448A-8622-ACBEC198E4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5105A05-2D88-4971-9270-FC4FB84A9577}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5105A05-2D88-4971-9270-FC4FB84A9577}.Debug|x86.Build.0 = Debug|Win32
+		{E5105A05-2D88-4971-9270-FC4FB84A9577}.Release|x86.ActiveCfg = Release|Win32
+		{E5105A05-2D88-4971-9270-FC4FB84A9577}.Release|x86.Build.0 = Release|Win32
+		{FD7D92A6-706F-448A-8622-ACBEC198E4DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD7D92A6-706F-448A-8622-ACBEC198E4DB}.Debug|x86.Build.0 = Debug|Win32
+		{FD7D92A6-706F-448A-8622-ACBEC198E4DB}.Release|x86.ActiveCfg = Release|Win32
+		{FD7D92A6-706F-448A-8622-ACBEC198E4DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
