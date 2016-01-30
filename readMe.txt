@@ -1,7 +1,10 @@
 ******
-*  readMe.txt - for programming assignment 2
+*  readMe.txt - for programming assignment 3
+*  Author: Ming Rutar
 *
-*  Student: Ming Rutar
+*   This is a Graduate Level Network Programming Project. 
+*   The description of the assignment is in pa3.pdf.
+* 
 ******
 includes Files:
 	common.h
